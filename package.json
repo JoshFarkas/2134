@@ -1,0 +1,26 @@
+{
+  "name": "2134",
+  "version": "0.0.2",
+  "description": "Learn Express.js to control robots",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshFarkas/2134.git"
+  },
+  "keywords": [
+    "robots",
+    "express"
+  ],
+  "author": "Joshua Farkas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshFarkas/2134/issues"
+  },
+  "homepage": "https://github.com/JoshFarkas/2134#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
